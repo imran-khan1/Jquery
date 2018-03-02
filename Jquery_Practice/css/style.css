@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.focus{ color:#000}
+.hdiv1{ color:#03F}
+.hdiv2{ color:#630}
+.hdiv3{ color:#F63}
+.hdiv4{ color:#C06}
+
+
+.red {color:red;}
+
+.red-color-border
+{
+	color:red;
+	border:1px solid #F00;
+}
